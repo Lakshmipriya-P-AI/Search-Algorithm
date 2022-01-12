@@ -87,7 +87,7 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ~~~
 ''' 
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by: Vishranthi A
+Developed by: lakshmi priya P
 RegisterNumber: 21001411
 '''
 def BinarySearch(arr, k, low, high):
